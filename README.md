@@ -37,8 +37,9 @@ Currently at **Siemens** building real-time control center infrastructure.
 
 ## 📊 Stats
 
-![Carlos's GitHub stats](https://github-readme-stats.vercel.app/api?username=truski22&show_icons=true&theme=dark&hide_border=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=truski22&layout=compact&theme=dark&hide_border=true)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=truski22&theme=dark&hide_border=true" alt="GitHub Streak" />
+</p>
 
 ---
 
