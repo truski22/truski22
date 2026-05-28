@@ -1,43 +1,44 @@
 # Hi, I'm Carlos 👋
 
-**Software Engineer** focused on distributed systems and mission-critical platforms.
-Currently working at **Siemens** on real-time control center infrastructure.
+**Software Engineer** specializing in distributed systems and mission-critical platforms.  
+Currently at **Siemens** building real-time control center infrastructure.
 
 ---
 
-##  What I work with
+## 🛠 Tech Stack
 
-**Languages**
+**Languages**  
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 
-**Backend & Architecture**
+**Backend & Architecture**  
 ![Microservices](https://img.shields.io/badge/Microservices-000000?style=flat)
 ![Event Driven](https://img.shields.io/badge/Event--Driven-FF6B6B?style=flat)
 ![REST](https://img.shields.io/badge/REST-009688?style=flat)
 
-**Frontend**
+**Frontend**  
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
 
-**Infrastructure**
+**Infrastructure**  
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
-**AI & Developer Tooling**
+**AI & Developer Tooling**  
 ![Claude](https://img.shields.io/badge/Claude_Code-000000?style=flat)
 ![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=flat&logo=github&logoColor=white)
 
-**Machine Learning**
+**Machine Learning**  
 ![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 
 ---
-##  Projects
 
-###  AntiCheat
-Chess fraud detection system. Started as a Bachelor's thesis (10/10) and evolved into a full microservice architecture with Java backend, Angular frontend, WebSockets, MQTT and improved ML model (+9.34% accuracy, +7.42% precision).
+## 📊 Stats
+
+![Carlos's GitHub stats](https://github-readme-stats.vercel.app/api?username=truski22&show_icons=true&theme=dark&hide_border=true&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=truski22&layout=compact&theme=dark&hide_border=true)
 
 ---
 
