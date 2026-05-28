@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Hi%2C+I'm+Carlos+%F0%9F%91%8B;Software+Engineer+%40+Siemens;Distributed+Systems+%7C+Real-Time+Platforms" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=435&lines=Hi%2C+I'm+Carlos;Software+Engineer;Siemens+%7C+Real-Time+Systems" alt="Typing SVG" />
 
 </div>
 
 <br>
 
-## 🛠 Tech Stack
+## Tech Stack
 
 <table>
 <tr><td valign="top" width="33%">
@@ -67,20 +67,12 @@
 
 ---
 
-## 🌐 Connect with me
+## Connect with me
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/carlos-arias-carrasco-6875a5255)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/truski22)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:carlosariascarrasco@gmail.com)
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=truski22&style=for-the-badge&color=58A6FF" alt="Profile views" />
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jocarr0301@gmail.com)
 
 </div>
