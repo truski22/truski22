@@ -1,38 +1,68 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=999999&color=58A6FF&center=true&vCenter=true&repeat=false&width=530&height=28&lines=Hi%2C+I'm+Carlos+%E2%80%94+Software+Engineer+%40+Siemens" alt="Typing SVG" />
+<h1>Hi, I'm Carlos 👋</h1>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=1200&color=58A6FF&center=true&vCenter=true&repeat=true&width=560&height=30&lines=Software+Engineer+%40+Siemens;Java+%C2%B7+Spring+Boot+%C2%B7+DevOps+%C2%B7+AI" alt="Typing SVG" />
 
 </div>
 
----
+<br>
 
-**Languages** &nbsp;
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+<h2 align="center">Featured Project</h2>
 
-**Backend** &nbsp;
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
-![Microservices](https://img.shields.io/badge/Microservices-000000?style=flat)
-![Event Driven](https://img.shields.io/badge/Event--Driven-FF6B6B?style=flat)
-![REST](https://img.shields.io/badge/REST-009688?style=flat)
+<div align="center">
+<h3><a href="https://github.com/truski22/anticheat-src">anticheat-src</a></h3>
+<i>Chess Fraud Detection System</i>
+</div>
 
-**Frontend** &nbsp;
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
+<p align="center">
+<img src="https://img.shields.io/badge/4-microservices-58A6FF?style=flat-square&labelColor=0F2027" />
+<img src="https://img.shields.io/badge/gRPC-HTTP%2F2-58A6FF?style=flat-square&labelColor=0F2027" />
+<img src="https://img.shields.io/badge/Kubernetes-10_manifests-58A6FF?style=flat-square&labelColor=0F2027&logo=kubernetes&logoColor=white" />
+<img src="https://img.shields.io/badge/Auth-JWT_%2F_HMAC--SHA256-58A6FF?style=flat-square&labelColor=0F2027" />
+</p>
 
-**Infrastructure** &nbsp;
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+<p align="center">
+Detects chess cheaters by replaying every move through the <b>Stockfish</b> engine: a player who keeps matching the engine's top move far more often than a human realistically would gets flagged automatically — no manual game review needed.
+<br><br>
+That signal, plus 22 other stats per game, is scored by a <b>RandomForest</b> model (<b>+9.34% accuracy</b> over baseline) running behind 4 Java microservices on <b>Kubernetes</b>.
+</p>
 
-**ML & AI Tooling** &nbsp;
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=flat&logo=github&logoColor=white)
-![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat&logo=anthropic&logoColor=white)
+<p align="center">
+<code>Gateway</code> → <code>User Service</code> → <code>Game Service</code> → <code>Analysis Service</code>
+</p>
 
----
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,spring,python,ts,angular,postgres,docker,kubernetes,githubactions" alt="anticheat-src stack" />
+
+
+
+[![View Repository](https://img.shields.io/badge/View_Repository-0F2027?style=for-the-badge&logo=github&logoColor=white)](https://github.com/truski22/anticheat-src)
+
+</div>
+
+<br>
+
+<br>
+
+<h2 align="center">Stack</h2>
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=java,python,ts,react,angular,spring,postgres,docker,kubernetes,linux,git,github&perline=6" alt="skills" />
+</div>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Microservices-8892BF?style=flat-square" />
+<img src="https://img.shields.io/badge/Event--Driven-FF6B6B?style=flat-square" />
+<img src="https://img.shields.io/badge/REST-009688?style=flat-square" />
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=flat-square&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white" />
+</p>
+
+<br>
+
 
 <div align="center">
 
